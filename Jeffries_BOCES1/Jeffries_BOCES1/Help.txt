@@ -1,0 +1,13 @@
+﻿HELP 
+---------------------- 
+The version number is located underneath the logo on the title screen
+
+The admin password is defaulted to admin but can be changed by editing the Password.txt file in the application 
+
+When removing a teacher from the database make sure that any students associated with that teacher are moved to a new teacher 
+
+When modifying or deleting a student/teacher make sure to use their first and last name to denote them 
+
+Any report generated will be sent to the "My Documents" folder and denoted by "ReportFile" followed by the date it was generated 
+
+All reports will be organized in ascending order by the student ID 
