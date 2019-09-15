@@ -20,4 +20,4 @@ There is also a specific area for adding pictures to any of the three and finall
 for printing a report with all task data currently stored in the database.
 
 ### Additional Notes
-I will soon have a video associated with this project of me going through it.
+Video Demo: https://youtu.be/tcJxDdpEhxA
